@@ -25,7 +25,6 @@
 7.Properties of the window object cannot be accessed by the document object.
 8.syntax:
     window.propertyname;
-
 9.example:
     window.innerHeight : will return the height of the content area of the browser.
 
